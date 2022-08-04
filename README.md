@@ -9,7 +9,7 @@ end generated ultrasound. Clone lgt8f has better adc and faster clock which help
 
 #TODO add design. Design currently simple h bridge driving ultrasonic array
 Current design
-![20220516_163807](https://user-images.githubusercontent.com/42336725/182957348-fc9d1d6a-fdab-4a61-8671-5a9a9aeca37b.jpg)
+<img src="https://user-images.githubusercontent.com/42336725/182957348-fc9d1d6a-fdab-4a61-8671-5a9a9aeca37b.jpg" width = "50%"/>
 
 Mildly infuriating to realise that elements have random orientation causing 180degree phase shifts. Cant trust orietation of the part itself.
 ![20220524_132412](https://user-images.githubusercontent.com/42336725/182957507-2fc337aa-afe5-40f4-b572-01983e765363.jpg)
